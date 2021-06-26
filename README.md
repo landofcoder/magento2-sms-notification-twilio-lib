@@ -1,7 +1,8 @@
-# Message Bird Lib use for Landofcoder Sms Notification Extension
+# Twilio Lib use for Landofcoder Sms Notification Extension
 
-## About Message Bird
+## About Twilio
 
-[Message Bird](https://www.messagebird.com/en/) is An omnichannel communications platform, built for global scale
+[Twilio](https://www.twilio.com/) Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.
 
-The world’s most innovative companies build communication solutions using MessageBird’s applications and APIs. Get started today and talk to your customers over any channel, for any use case, anywhere in the world.
+Twilio has democratized communications channels like voice, text, chat, video, and email by virtualizing the world’s communications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications.
+
